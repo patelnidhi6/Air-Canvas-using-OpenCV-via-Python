@@ -10,5 +10,5 @@ Air Canvas using OpenCV via Python
 	--Collections - Deque
 
 --Github Link
-	--https://github.com/nidi-patel3568/Air-Canvas-using-OpenCV-via-Python
+	--https://github.com/patelnidhi6/Air-Canvas-using-OpenCV-via-Python
 
